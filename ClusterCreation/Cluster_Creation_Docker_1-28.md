@@ -8,7 +8,7 @@ gcloud compute instances create master worker-1 worker-2 --create-disk=auto-dele
 ```bash
 $ adduser username
 #Example
-adduser siva
+adduser Murali
 
 #Add the new user to the sudo group 
 usermod -aG sudo username
